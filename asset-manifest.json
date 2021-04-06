@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food-card/static/css/main.771f39f8.chunk.css",
+    "main.js": "/food-card/static/js/main.a189243b.chunk.js",
+    "main.js.map": "/food-card/static/js/main.a189243b.chunk.js.map",
+    "runtime-main.js": "/food-card/static/js/runtime-main.9b7539ad.js",
+    "runtime-main.js.map": "/food-card/static/js/runtime-main.9b7539ad.js.map",
+    "static/js/2.40433077.chunk.js": "/food-card/static/js/2.40433077.chunk.js",
+    "static/js/2.40433077.chunk.js.map": "/food-card/static/js/2.40433077.chunk.js.map",
+    "index.html": "/food-card/index.html",
+    "static/css/main.771f39f8.chunk.css.map": "/food-card/static/css/main.771f39f8.chunk.css.map",
+    "static/js/2.40433077.chunk.js.LICENSE.txt": "/food-card/static/js/2.40433077.chunk.js.LICENSE.txt",
+    "static/media/m.jpg": "/food-card/static/media/m.8551c7cc.jpg",
+    "static/media/ml.jpg": "/food-card/static/media/ml.ec1cc232.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b7539ad.js",
+    "static/js/2.40433077.chunk.js",
+    "static/css/main.771f39f8.chunk.css",
+    "static/js/main.a189243b.chunk.js"
+  ]
+}

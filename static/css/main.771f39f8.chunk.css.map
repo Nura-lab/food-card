@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,qCAA8B,CAA9B,6BAA8B,CAC9B,QAAS,CACT,SACF","file":"main.771f39f8.chunk.css","sourcesContent":["* {\n  flex-direction: column-reverse;\n  margin: 0;\n  padding: 0;\n}"]}
